@@ -1,1 +1,1 @@
-# Valpec Catalog (build)
+# Valpec Catalog (Build)
